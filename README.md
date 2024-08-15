@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @KachiMaxxxxx
-- 👀 I’m interested in ...Web dev 
-- 🌱 I’m currently learning ...front end developement
-- 💞️ I’m looking to collaborate on ...result oriented projects
+- 👀 I’m interested in Web Dev and Design
+- 🌱 I’m currently learning front end developement
+- 💞️ I’m looking to collaborate on result oriented projects
 - 📫 How to reach me ...@Maxxxxx on X
 - 😄 Pronouns: ...Male(HE)
 - ⚡ Fun fact: ...I'M Competitiveeeeee
